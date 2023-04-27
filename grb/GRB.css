@@ -1,0 +1,22 @@
+h1 {
+    background-color: green;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: White;
+  }
+  
+p {
+    font-size: 20px;
+    color: Black;
+    text-align: center;
+    font-family: arial;
+  }
+  
+button{
+    font-size: 20px;
+    color: Black;
+    text-align: center;
+    font-family: arial;
+    background-color: red;
+}
